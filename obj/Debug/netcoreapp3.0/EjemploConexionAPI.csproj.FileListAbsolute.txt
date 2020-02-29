@@ -1,0 +1,13 @@
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\bin\Debug\netcoreapp3.0\EjemploConexionAPI.exe
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\obj\Debug\netcoreapp3.0\EjemploConexionAPI.csprojAssemblyReference.cache
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\obj\Debug\netcoreapp3.0\EjemploConexionAPI.AssemblyInfoInputs.cache
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\obj\Debug\netcoreapp3.0\EjemploConexionAPI.AssemblyInfo.cs
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\bin\Debug\netcoreapp3.0\EjemploConexionAPI.deps.json
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\bin\Debug\netcoreapp3.0\EjemploConexionAPI.runtimeconfig.json
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\bin\Debug\netcoreapp3.0\EjemploConexionAPI.runtimeconfig.dev.json
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\bin\Debug\netcoreapp3.0\EjemploConexionAPI.dll
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\bin\Debug\netcoreapp3.0\EjemploConexionAPI.pdb
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\obj\Debug\netcoreapp3.0\EjemploConexionAPI.csproj.CopyComplete
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\obj\Debug\netcoreapp3.0\EjemploConexionAPI.dll
+C:\Users\davin\Desktop\Structuralia2\Davinia\Material_Proyectos_C#\API\EjemploConexionAPI\obj\Debug\netcoreapp3.0\EjemploConexionAPI.pdb
